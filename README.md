@@ -6,7 +6,7 @@
 I'm a final year student pursuing MCA and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.  <br> 
 <img align='right' src="https://wallpaperaccess.com/full/5673721.jpg" width="450">
 <br/>
-- 🌱 I’m currently focusing on **Web Development** and practicing **Data Structures and Algorithms** everyday.
+- 🌱 I’m currently focusing on **Web Development**.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 
 <br>
