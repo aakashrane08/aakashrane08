@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm <a  href="https://github.com/aakashrane08">Aakash Rane </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-rane-0050b626a)&nbsp;
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-rane-aa30b426a/)&nbsp;
 [![mail](https://img.shields.io/badge/Mail-6001D2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakash.rane.008@gmail.com)&nbsp;
 
 I'm a final year student pursuing MCA and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.  <br> 
