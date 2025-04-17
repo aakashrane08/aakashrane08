@@ -3,10 +3,9 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-rane-aa30b426a/)&nbsp;
 [![mail](https://img.shields.io/badge/Mail-6001D2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakash.rane.008@gmail.com)&nbsp;
 
-I'm a final year student pursuing MCA and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.  <br> 
+Hi, I’m a frontend-focused full-stack web developer specializing in building fast, responsive, and user-friendly web apps with React, Next.js, and Tailwind CSS. I turn ideas into elegant digital experiences, from clean UIs to dynamic, scalable functionality.  <br> 
 <img align='right' src="https://wallpaperaccess.com/full/5673721.jpg" width="450">
 <br/>
-- 🌱 I’m currently focusing on **Web Development**.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 
 <br>
